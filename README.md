@@ -1,3 +1,4 @@
+
 # Data-Science-MongoDB
 
 This project is part of foundation of data science about Data Processing
@@ -19,3 +20,7 @@ You can define auxiliary functions if you want, as long as they are all in the s
 If you add print statements for testing, please delete or comment them before submitting.
 
 Answers can make use of the tools you learned so far: MongoDB pipelines and operators, Python code, pandas and networkx. An important aspect of the coursework is to identify in what situations is best to use MongoDB only, and in what situations is best to use multiple tools. A bad choice may make your answer less efficient, and in some cases, not run at all. The marking scheme at the end of the notebook details the expected execution times of your answers. Less efficient answers will get less marks.
+
+
+![6](https://github.com/Warayut-Muknumporn/Data-Science-MongoDB/assets/116235617/7c4c2713-1402-488a-99cc-af8f2447cfa8)
+![5](https://github.com/Warayut-Muknumporn/Data-Science-MongoDB/assets/116235617/eedd97b1-0c1f-4173-9a7b-b16ebd1156c3)
